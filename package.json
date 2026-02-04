@@ -1,6 +1,6 @@
 {
   "name": "cf-honox-vite",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Miniflare-based dev server adapter for HonoX + Vite (cloudflare:workers safe)",
   "type": "module",
   "exports": {
