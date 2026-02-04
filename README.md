@@ -4,6 +4,8 @@ Miniflare-based dev server adapter for **HonoX + Vite**.
 `@hono/vite-dev-server` が Node 上で動いて `cloudflare:workers` を import できない問題を回避し、
 Cloudflare Workers 互換の実行環境（Miniflare）で dev できます。
 
+対応: Vite 5 / 6 / 7
+
 ## Install
 
 ```bash
